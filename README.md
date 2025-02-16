@@ -1,2 +1,2 @@
-# Email-spam-detector
-Submitted to Md Mynoddin, -Lecturer , Department of Computer Science &amp; Engineering,Rangamati Science and Technology University  
+# email-spam-classifier-new
+End to end code for the email spam classifier project
